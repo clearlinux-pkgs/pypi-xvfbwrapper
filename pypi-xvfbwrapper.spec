@@ -4,7 +4,7 @@
 #
 Name     : pypi-xvfbwrapper
 Version  : 0.2.9
-Release  : 25
+Release  : 26
 URL      : https://files.pythonhosted.org/packages/57/b6/4920eabda9b49630dea58745e79f9919aba6408d460afe758bf6e9b21a04/xvfbwrapper-0.2.9.tar.gz
 Source0  : https://files.pythonhosted.org/packages/57/b6/4920eabda9b49630dea58745e79f9919aba6408d460afe758bf6e9b21a04/xvfbwrapper-0.2.9.tar.gz
 Summary  : run headless display inside X virtual framebuffer (Xvfb)
@@ -59,7 +59,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1641601250
+export SOURCE_DATE_EPOCH=1649797447
 export GCC_IGNORE_WERROR=1
 export CFLAGS="$CFLAGS -fno-lto "
 export FCFLAGS="$FFLAGS -fno-lto "
